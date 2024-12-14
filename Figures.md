@@ -9,6 +9,6 @@
 ![Subfolder Image](figures_store/player_death_features.png)
 
 <div style="text-align: center;">
-    <img src="figures_store/round_damage.png" alt="Alt text" width="1000">
     <p><b>Figure 1:</b> This is the title or caption of the image.</p>
+    <img src="figures_store/round_damage.png" alt="Alt text" width="1000">
 </div>
